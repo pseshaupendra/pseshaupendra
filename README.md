@@ -1,4 +1,4 @@
-<h1 align="center">Hello World👋, I'm I'm SESHA UPENDRA</h1>
+<h1 align="center">Hello World👋, I'm SESHA UPENDRA</h1>
 <h3 align="center">An aspiring Java Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pseshaupendra&label=Profile%20views&color=0e75b6&style=flat" alt="pseshaupendra" /> </p>
