@@ -3,7 +3,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=pseshaupendra&label=Profile%20views&color=0e75b6&style=flat" alt="pseshaupendra"/> </p>
 
-<h3>🌱 I’m currently learning **Java Development, Front-end development**🎯</h3>
+<h3>🌱 I’m currently learning Java Development, Front-end development🎯</h3>
 <h3>🌱 A passionate Techie👨‍💻</h3>
 
 <h3 align="left">Languages and Tools:</h3>
